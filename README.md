@@ -36,9 +36,9 @@ Dengan demikian, kebijakan peningkatan retensi mahasiswa dapat dirancang secara 
 ### Persiapan
 1. Sumber data: Education Dataset (https://drive.google.com/file/d/1hfXQbYuWfJ2E_1TMVu5ebYOnYhXxGR0C/view?usp=sharing)
 Gunakan akun berikut untuk login ke Metabase:
-- Email/Username:sitompulsamuel625@gmail.com
-- Password:Gersam1234.  
-
+- Email/Username:
+- Password:
+  
 2. Membuat dan Mengaktifkan Virtual Environment
 Linux / MacOS
 python3 -m venv venv
